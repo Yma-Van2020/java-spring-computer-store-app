@@ -30,7 +30,7 @@ public class BuyProductController {
     private ProductRepository productRepository;
 
     @PostMapping("/buyProduct")
-    public String buyProduct(@RequestParam("productID") long productId, Model theModel) {
+    public String buyProduct(@RequestParam("productID") long productId) {
         // Retrieve the product from the repository
         Optional<Product> optionalProduct = productRepository.findById(productId);
 
