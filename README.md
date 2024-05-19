@@ -1,4 +1,4 @@
-# Shop Inventory Management System README
+# Shop Inventory Management System
 
 ## Overview
 
@@ -17,6 +17,10 @@ To run the application, open it in IntelliJ IDEA Ultimate Edition and run the co
 - **About Page**: Learn more about our company and mission.
 - **Sample Inventory**: Preloaded with sample parts and products.
 - **Buy Now Button**: Purchase products directly from the product list.
+
+### A. GitLab Repository Setup
+- The project is hosted on GitLab. [here](https://gitlab.com/wgu-gitlab-environment/student-repos/yma14/d287-java-frameworks.git) 
+- working_branch's branch history and commit messages are available upon request.
 
 ## Additional Features
 
